@@ -8,7 +8,7 @@
 - 🎓 **NCCU MIS Master** & **NCCU CS Bachelor**
 - 🚀 **Flutter & Supabase Enthusiast** | Passionate about building seamless mobile experiences.
 - 🤝 **Contributor @nccu-app** | Committed to improving campus digital life.
-- 🏗️ **Current Project:** A comprehensive [Ball Court Management System](https://github.com/KaifeinDev/your-showcase-repo) (Flutter + Supabase).
+- 🏗️ **Current Project:** A comprehensive [Ball Court Management System](https://github.com/KaifeinDev/TTMastiff-System-Showcase) (Flutter + Supabase).
 
 ---
 
