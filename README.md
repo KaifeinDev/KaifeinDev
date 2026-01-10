@@ -1,16 +1,32 @@
-## Hi there 👋
+# ☕ Welcome to KaifeinDev's Workspace!
 
-<!--
-**KaifeinDev/KaifeinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Kai (楷璿)**. I’m a Software Engineer who transforms caffeine into clean, scalable, and efficient code. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 The Coffee Menu (My Tech Stack)
+
+| Category | Selection |
+| :--- | :--- |
+| **Daily Espresso (Languages)** | Python, JavaScript (Node.js), C#, SQL |
+| **Brewing Methods (Frameworks)** | React, Express, .NET |
+| **Filter & Roast (Tools/DevOps)** | Git, Docker, PowerShell, Linux |
+| **Coming Soon (Learning)** | Go, Cloud Infrastructure |
+
+---
+
+### 📊 Brewing Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaifeinDev&show_icons=true&theme=coffee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaifeinDev&layout=compact&theme=coffee)
+
+---
+
+### 📫 Connect with me
+
+- 💼 [LinkedIn](你的LinkedIn網址)
+- ☕ [Buy Me A Coffee](你的咖啡贊助網址)
+- 📧 Email: `your-email@example.com`
+
+---
+> *"Code is like a good cup of coffee—it's better when it's clean and crafted with care."*
