@@ -1,4 +1,4 @@
-# ☕ Hi there! I'm Kai-Xuan Chen (KaifeinDev)
+# Hi! I'm Kai
 
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+caffeine+into+clean+code...;Building+cross-platform+solutions...;Welcome+to+my+GitHub+Profile!&font=Fira+Code&width=450&height=30" />
